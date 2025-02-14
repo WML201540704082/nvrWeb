@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="37px" height="37px" viewBox="0 0 37 37" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>箭头备份 3</title>
+    <defs>
+        <filter x="-69.4%" y="-69.4%" width="238.7%" height="238.7%" filterUnits="objectBoundingBox" id="filter-1">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.128915284   0 0 0 0 0.193287636   0 0 0 0 0.274238918  0 0 0 0.181514286 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+        <linearGradient x1="0%" y1="50%" x2="100%" y2="50%" id="linearGradient-2">
+            <stop stop-color="#F7FBFF" offset="0%"></stop>
+            <stop stop-color="#81BDFF" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="视频预览1920" transform="translate(-1760.000000, -341.000000)" fill-rule="nonzero">
+            <g id="编组-22" transform="translate(1637.000000, 102.000000)">
+                <g id="编组-15" transform="translate(27.600000, 72.000000)">
+                    <g id="箭头备份-3" filter="url(#filter-1)" transform="translate(113.999246, 185.358416) scale(-1, 1) rotate(-90.000000) translate(-113.999246, -185.358416) translate(105.350495, 176.708911)">
+                        <rect id="矩形" fill="#000000" opacity="0" x="0" y="0.00150816403" width="17.2975016" height="17.2975016"></rect>
+                        <path d="M14.8883887,1.43735688 L14.8883887,15.8545626 C14.8918024,16.4229937 14.5595426,16.9399191 14.0410282,17.1728748 C13.5225138,17.4058305 12.9153845,17.3109495 12.4926694,16.9309003 L2.97923344,9.80195048 C2.34600279,9.32407375 2.21859938,8.4240303 2.69432053,7.78917866 C2.77340878,7.67955241 2.86960719,7.583354 2.97923344,7.50426575 L12.5947887,0.285450944 C13.2293368,-0.188628668 14.1280153,-0.058809386 14.6024546,0.575469809 C14.7916223,0.821698623 14.8936368,1.12379095 14.8924833,1.4342933 L14.8883887,1.43735688 Z" id="路径" fill="url(#linearGradient-2)"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

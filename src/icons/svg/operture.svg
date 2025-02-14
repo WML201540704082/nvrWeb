@@ -1,0 +1,20 @@
+<svg width="27.440613" height="27.450989" viewBox="0 0 27.4406 27.451" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<desc>
+			Created with Pixso.
+	</desc>
+	<g filter="url(#filter_10_3_dd)">
+		<path d="M26.072 19.7L22.6299 13.737L18.7609 6.81702L25.5549 6.81702C26.7128 8.78586 27.3375 10.9114 27.4291 13.1937C27.5206 15.4759 27.0682 17.6447 26.072 19.7ZM17.9819 5.42801L10.239 5.42801L13.3529 0.0280151C13.4789 0.0280151 13.598 0 13.723 0C15.869 -0.000610352 17.9025 0.477448 19.8235 1.43417C21.7446 2.3909 23.3514 3.72586 24.6439 5.439L17.9819 5.42801ZM8.64594 5.42801L8.14594 6.30099L7.37195 7.64801L4.71191 12.389L1.68091 7.138C2.71167 5.25446 4.10736 3.69818 5.86798 2.46912C7.62854 1.24008 9.57056 0.46637 11.6939 0.14801L8.64594 5.42801ZM4.80591 15.176L7.87195 20.601L1.84491 20.601C0.791748 18.7841 0.189209 16.8283 0.0371704 14.7338C-0.114807 12.6392 0.199097 10.6169 0.978943 8.66699L4.80591 15.176ZM11.2859 21.97L16.3209 21.97L13.158 27.451C11.0992 27.3687 9.15814 26.8481 7.33453 25.8892C5.51093 24.9304 3.98175 23.6263 2.74695 21.977L11.2859 21.97ZM17.9059 21.97L21.8519 15.127L25.301 21.104C24.143 22.9284 22.6374 24.3961 20.7841 25.5071C18.9308 26.6182 16.9267 27.2545 14.7719 27.416L17.9059 21.97Z" fill-rule="evenodd" fill="#FBFDFF"/>
+	</g>
+	<defs>
+		<filter id="filter_10_3_dd" x="0.000000" y="0.000000" width="27.440613" height="27.450989" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+			<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+			<feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
+			<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+			<feOffset dx="0" dy="4"/>
+			<feGaussianBlur stdDeviation="1.33333"/>
+			<feComposite in2="hardAlpha" operator="arithmetic" k2="-1" k3="1"/>
+			<feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.25 0"/>
+			<feBlend mode="normal" in2="shape" result="effect_innerShadow_1"/>
+		</filter>
+	</defs>
+</svg>
